@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Mental Health Guide</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat|Playfair+Display">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    .custom-banner {
+      background-image: url('http://127.0.0.1:5000/static/933d567b-76ab-40c4-b290-114f3e989c45.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 400px;
+      position: relative;
+      overflow: hidden;
+      font-family: Montserrat, sans-serif;
+      font-weight: 700; /* Bold */
+      font-size: 50px;
+    }
+
+    section h1 {
+      font-family: Playfair Display, serif;
+      font-weight: 400; /* Bold */
+      font-size: 40px;
+    }
+
+    .text-black {
+      font-size: 30px;
+    }
+
+    .popup {
+      display: none;
+      position: absolute;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding: 10px;
+      font-size: 16px;
+      z-index: 999;
+      width: 80%;
+      left: 50%;
+      transform: translateX(-50%);
+      border-radius: 5px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .popup a {
+      display: block;
+      padding: 5px 0;
+    }
+
+    .popup p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <header></header>
+
+  <section class="custom-banner flex items-center justify-center">
+    <div class="text-center text-white">
+      <h1 class="text-5xl font-bold font-montserrat">GET TESTED</h1>
+      <p class="mt-4 text-xl">Boost your mental health</p>
+    </div>
+  </section>
+
+  <section style="background-image: linear-gradient(to right, #97d3d4, #ffe0b2);" class="py-12">
+    <div class="container mx-auto px-6">
+      <center>
+        <h1 class="text-black font-playfair-display">Mental Health Detection</h1><br>
+        <form method="POST" action="predict" class="text-black">
+          <b>
+            Sadness: 
+            <input type="text" name='a' placeholder="Enter a value from 1 (Seldom) to 4 (Usually)" class="mt-2 mb-4">
+            <span class="popup" id="sadness-popup">
+              <p>1 - Seldom | 2 - Sometimes | 3 - Most Often | 4 - Usually</p>
+            </span>
+            
+            Euphoric:
+            <input type="text" name='b' placeholder="Enter a value from 1 (Seldom) to 4 (Usually)" class="mt-2 mb-4">
+            <span class="popup" id="euphoric-popup">
+              <p>1 - Seldom | 2 - Sometimes | 3 - Most Often | 4 - Usually</p>
+            </span>
+
+            Exhausted: 
+            <input type="text" name='c' placeholder="Enter a value from 1 (Seldom) to 4 (Usually)" class="mt-2 mb-4">
+            <span class="popup" id="exhausted-popup">
+              <p>1 - Seldom | 2 - Sometimes | 3 - Most Often | 4 - Usually</p>
+            </span>
+
+            Sleep disorder:
+            <input type="text" name='d' placeholder="Enter a value from 1 (Seldom) to 4 (Usually)" class="mt-2 mb-4">
+            <span class="popup" id="sleep-popup">
+              <p>1 - Seldom | 2 - Sometimes | 3 - Most Often | 4 - Usually</p>
+            </span>
+
+            Mood Swing: 
+            <input type="text" name='e' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="mood-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Suicidal thoughts:
+            <input type="text" name='f' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="suicide-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Anorexia:
+            <input type="text" name='g' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="Anorexia-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Authority Respect:
+            <input type="text" name='h' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="authorityRespect-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Try-Explanation:
+            <input type="text" name='i' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="TryExplanation-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Aggressive Response: 
+            <input type="text" name='j' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="AggressiveResponse-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Ignore & Move-On: 
+            <input type="text" name='k' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="Ignore-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Nervous Breakdown: 
+            <input type="text" name='l' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="nervous-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Admit Mistakes:
+            <input type="text" name='m' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="AdmitMistakes-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Overthinking: 
+            <input type="text" name='n' placeholder="Enter 1 (Yes) or 0 (No)" class="mt-2 mb-4">
+            <span class="popup" id="Overthinking-popup">
+              <p>0 - No | 1 - Yes</p>
+            </span>
+
+            Concentration: 
+            <input type="text" name='o' placeholder="Enter a value from 1 (Poor) to 10 (Excellent)" class="mt-2 mb-4">
+
+            Optimism: 
+            <input type="text" name='p' placeholder="Enter a value from 1 (Low) to 10 (High)" class="mt-2 mb-4">
+          </b>
+
+          <input type="submit" value='Predict' class="bg-black text-white py-2 px-4 rounded mt-4">
+        </form>
+
+        <script>
+          const inputFields = document.querySelectorAll('input[type="text"]');
+          const popups = document.querySelectorAll('.popup');
+
+          inputFields.forEach((input, index) => {
+            input.addEventListener('focus', () => {
+              popups[index].style.display = 'block';
+            });
+
+            input.addEventListener('blur', () => {
+              popups[index].style.display = 'none';
+            });
+          });
+        </script>
+
+        <h1 class="text-black font-playfair-display mt-8">Prediction:</h1>
+        <p class="text-black">{{ data }}</p>
+        <a href="http://127.0.0.1:5000/song-page" class="text-black underline">Go to Song Recommendation</a>
+        <p></p>
+        <a href="http://127.0.0.1:5500/INTEGRATION/templates/index.html" class="text-black underline">Go to Home Page</a>
+      </center>
+    </div>
+  </section>
+</body>
+</html>

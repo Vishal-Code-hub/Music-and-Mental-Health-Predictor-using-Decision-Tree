@@ -1,0 +1,113 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Recommendation</title>
+    <style>
+        body {
+            background: #FEF3E2;
+            height: 100vh;
+            margin: 0;
+        }
+        img {
+            width: 100%;
+            height: 350px;
+            object-fit: cover;
+        }
+        h1 {
+            position: absolute;
+            top: 25%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 60px;
+            color: #9b522f;
+            text-align: center;
+            line-height: 0.9;
+        }
+        .text-black{
+            font-size: 30px;
+        }
+        .popup {
+            display: none;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 5px;
+            font-size: 16px;
+            position: center;
+            z-index: 999;
+            width: 50%;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="http://127.0.0.1:5000/static/pic.jpg" alt="Banner Image" style="border-bottom-left-radius: 30px; border-bottom-right-radius: 30px;">
+
+    <center><br>
+        <h1 style="font-size: 75px;">Song Recommendation</h1><br>
+        <form method="POST" action="{{ url_for('song') }}">
+            <b style="font-size: 30px;">
+                Age : <input type="text" name="a" placeholder="---" style="height: 30px;">
+                <span class="popup" id="age-popup">Enter your age in years.</span>
+                <br><br>
+                Hours per day : <input type="text" name="b" placeholder="---" style="height: 30px; width: 300px;">
+                <span class="popup" id="hours-popup">Please specify the number of hours you listen to music daily.</span>
+                <br><br>
+                Do you explore multiple genres : <input type="text" name="c" placeholder="---" style="height: 30px; width: 200px;">
+                <span class="popup" id="genres-popup">Enter 1 if you listen to various genres, 0 if you don't.</span>
+                <br><br>
+                Do you enjoy multiple languages : <input type="text" name='d' placeholder="---" style="height: 30px; width: 200px"> 
+                <span class="popup" id="genres-popup">Enter 1 if you listen to multiple lanuages, 0 if you don't.</span>
+                <br><br>
+                BPM : <input type="text" name='e' placeholder="---" style="height: 30px; width: 250px">
+                <span class="popup" id="genres-popup">Enter a value from 1-160.</span>
+                <br><br>
+                <a style="padding-left: 40px; padding-right: 40px; font-size: 28px;">
+                    How often do you listen to the following music genres (1 represents less frequently and 4 represents more frequently):
+                </a><br><br>
+                Classical : <input type="text" name='f' placeholder=" Enter any value from 1-4" style="height: 30px;">
+                <span class="popup" id="genres-popup">Examples : Albela Sajan by Shankar Mahadevan, Kavita Krishnamurthy, Clair de Lune by Claude Debussy.</span><br>
+                Country : <input type="text" name='g' placeholder=" Enter any value from 1-4" style="height: 30px;"> 
+                <span class="popup" id="genres-popup">Examples : Phir Se Udd Chala by Mohit Chauhan, You Belong With Me by Taylor Swift.</span><br>
+                K pop : <input type="text" name='h' placeholder=" Enter any value from 1-4" style="height: 30px;"> 
+                <span class="popup" id="genres-popup">Examples : Boy With Luv by BTS, Gangnam Style by PSY.</span><br>
+                Pop : <input type="text" name='i' placeholder=" Enter any value from 1-4" style="height: 30px;">                 
+                <span class="popup" id="genres-popup">Examples : Tum Hi Ho by Arijit Singh, Shape Of You by Ed Sheeran.</span><br>
+                Rap : <input type="text" name='j' placeholder=" Enter any value from 1-4" style="height: 30px;"> 
+                <span class="popup" id="genres-popup">Examples : Apna time aayega by Ranveer Singh, Lose Yourself by Eminem.</span><br>
+                Rock : <input type="text" name='k' placeholder=" Enter any value from 1-4" style="height: 30px;"> 
+                <span class="popup" id="genres-popup">Examples : Sadda Haq by Mohit Chauhan, Bohemian Rhapsody by Queen.</span><br><br><br>
+                Anxiety : <input type="text" name='l' placeholder="  enter a value from 1-10" style="height: 30px;">
+                <span class="popup" id="genres-popup">How anxious are you on a scale of 1 to 10, where 1 means no anxiety at all, and 10 represents extreme anxiety.</span> <br><br>
+                Depression : <input type="text" name='m' placeholder="  enter a value from 1-10" style="height: 30px;">
+                <span class="popup" id="genres-popup">How depressed are you on a scale of 1 to 10, where 1 means no anxiety at all, and 10 represents extreme anxiety..</span> <br><br>
+                Insomnia : <input type="text" name='n' placeholder="  enter a value from 1-10" style="height: 30px;">
+                <span class="popup" id="genres-popup">Rate your insomnia on a scale of 1 to 10, where 1 means no anxiety at all, and 10 represents extreme anxiety.</span> <br><br>
+                OCD : <input type="text" name='o' placeholder="  enter a value from 1-10" style="height: 30px;">
+                <span class="popup" id="genres-popup">Rate your OCD on a scale of 1 to 10, where 1 means no anxiety at all, and 10 represents extreme anxiety.</span> <br><br>
+                </b>
+             
+                <input type="submit" value='Predict' class="bg-black text-white py-2 px-4 rounded">
+        </form>
+
+        <script>
+            const inputFields = document.querySelectorAll('input[type="text"]');
+            const popups = document.querySelectorAll('.popup');
+
+            inputFields.forEach((input, index) => {
+                input.addEventListener('focus', () => {
+                    popups[index].style.display = 'block';
+                });
+                input.addEventListener('blur', () => {
+                    popups[index].style.display = 'none';
+                });
+            });
+        </script>
+    <h2 class="text-black font-playfair-display"> Prediction: </h2>
+    <p>{{ data }}</p> <!-- Display prediction result -->
+
+    <a href="http://127.0.0.1:5000/" class="text-black underline">Take Another Test</a>
+    <p class="text-black"></p> <a href="http://127.0.0.1:5500/INTEGRATION/templates/index.html" class="text-black underline">Go to Home Page</a>
+    </center>
+</body>
+</html>

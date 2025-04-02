@@ -1,0 +1,737 @@
+Age,Hours per day,Fav genre,Exploratory,Foreign languages,BPM,Frequency [Classical],Frequency [Country],Frequency [EDM],Frequency [Folk],Frequency [Gospel],Frequency [Hip hop],Frequency [Jazz],Frequency [K pop],Frequency [Latin],Frequency [Lofi],Frequency [Metal],Frequency [Pop],Frequency [R&B],Frequency [Rap],Frequency [Rock],Frequency [Video game music],Anxiety,Depression,Insomnia,OCD
+18,3,Latin,Yes,Yes,156,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Very frequently,Sometimes,Very frequently,Never,Sometimes,3,0,1,0
+63,1.5,Rock,Yes,No,119,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,7,2,2,1
+18,4,Video game music,No,Yes,132,Never,Never,Very frequently,Never,Never,Rarely,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Rarely,Very frequently,7,7,10,2
+61,2.5,Jazz,Yes,Yes,84,Sometimes,Never,Never,Rarely,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,9,7,3,3
+18,4,R&B,Yes,No,107,Never,Never,Rarely,Never,Rarely,Very frequently,Never,Very frequently,Sometimes,Sometimes,Never,Sometimes,Very frequently,Very frequently,Never,Rarely,7,2,5,9
+18,5,Jazz,Yes,Yes,86,Rarely,Sometimes,Never,Never,Never,Sometimes,Very frequently,Very frequently,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,8,7,7
+18,3,Video game music,Yes,Yes,66,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Sometimes,4,8,6,0
+21,1,K pop,Yes,Yes,95,Never,Never,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Rarely,5,3,5,3
+19,6,Rock,No,No,94,Never,Very frequently,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,2,0,0,0
+18,1,R&B,Yes,Yes,155,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,2,2,5,1
+18,3,Country,Yes,No,,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Never,7,7,4,7
+19,8,EDM,Yes,No,125,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,1,0,0,1
+,3,Hip hop,Yes,Yes,,Rarely,Never,Rarely,Never,Never,Very frequently,Never,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Rarely,Rarely,Never,9,3,2,7
+19,2,Country,Yes,No,88,Never,Very frequently,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Never,Never,2,1,2,0
+18,4,Jazz,Yes,Yes,148,Very frequently,Rarely,Never,Never,Never,Never,Very frequently,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,6,4,7,0
+17,2,Pop,Yes,Yes,,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,7,5,4,1
+16,8,Hip hop,Yes,Yes,103,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,8,8,4,3
+16,12,Hip hop,Yes,Yes,120,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,5,7,10,0
+17,24,Rap,Yes,No,99,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Never,7,5,0,3
+15,3,Hip hop,No,No,120,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,7,3,0,2
+15,8,Hip hop,Yes,Yes,120,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,6,9,3,0
+17,4,Rap,Yes,No,125,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,10,10,2,4
+19,5,R&B,Yes,Yes,118,Rarely,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Sometimes,Never,Never,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Rarely,6,7,5,4
+18,2,Pop,No,Yes,79,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Very frequently,Never,Never,Never,Rarely,3,3,8,6
+16,3,Rock,Yes,Yes,84,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Sometimes,10,6,8,10
+18,2,Pop,Yes,Yes,169,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,7,4,2,5
+14,12,Rock,Yes,Yes,136,Sometimes,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,8,6,10,5
+18,6,Pop,No,Yes,101,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Never,Never,3,2,1,2
+17,2,Pop,Yes,Yes,126,Never,Very frequently,Rarely,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Sometimes,6,6,4,5
+17,1,Pop,Yes,No,183,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,8,2,1,5
+20,5,Rock,Yes,Yes,,Never,Rarely,Rarely,Very frequently,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,7,7,2,0
+19,2,Classical,No,No,120,Very frequently,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Very frequently,4,4,4,3
+19,6,Metal,Yes,Yes,,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Never,Sometimes,Sometimes,9,8,2,3
+17,4,Rock,Yes,Yes,142,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Rarely,5,6,6,1
+16,1,Classical,No,No,75,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,0,0,0,0
+18,5,Pop,Yes,No,120,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,3,2,1,1
+21,4,Pop,No,Yes,89,Never,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Never,Very frequently,Never,Rarely,Never,Never,6,8,0,2
+17,3,Pop,Yes,No,,Never,Never,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Sometimes,Very frequently,Very frequently,Never,2,0,4,0
+26,0.5,Rock,No,Yes,140,Rarely,Never,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Very frequently,Never,9,8,1,0
+20,4,EDM,Yes,No,161,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,7,2,8,6
+23,2,Video game music,Yes,No,80,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,4,2,3,4
+18,5,Rock,Yes,No,130,Very frequently,Never,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,7,6,5,0
+37,0.25,Video game music,Yes,No,147,Very frequently,Rarely,Never,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,3,2,10,0
+17,3,Classical,Yes,Yes,120,Very frequently,Never,Very frequently,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,6,6,8,2
+18,4,Metal,Yes,Yes,77,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,1,0,8,2
+17,1,Folk,No,No,118,Never,Sometimes,Rarely,Very frequently,Never,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,7,3,1,5
+36,1,Classical,No,No,132,Very frequently,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,8,9,3,0
+24,3,Rock,Yes,Yes,115,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,9,6,4,3
+18,5,Metal,Yes,Yes,157,Never,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Never,7,9,5,0
+19,3,Pop,No,Yes,90,Sometimes,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,7,4,2,4
+17,2,EDM,Yes,No,128,Never,Rarely,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,0,0,0,0
+16,6,K pop,Yes,Yes,169,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,7,8,7,5
+23,1,Rap,No,Yes,140,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Never,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Rarely,10,6,3,10
+23,12,Pop,Yes,Yes,96,Very frequently,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Never,3,7,5,5
+22,4,Rock,Yes,Yes,126,Rarely,Never,Rarely,Sometimes,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Rarely,8,7,4,3
+16,2,Classical,Yes,No,,Very frequently,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,0,0,1,3
+18,6,Rock,Yes,No,91,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Never,8,6,2,10
+42,0,Rock,No,Yes,,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,9,0,10,0
+23,7,Folk,Yes,Yes,55,Rarely,Very frequently,Never,Very frequently,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,6,4,2,3
+23,1,Video game music,No,No,85,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,7,0,0,2
+19,1,K pop,Yes,Yes,160,Never,Never,Never,Never,Never,Never,Sometimes,Very frequently,Never,Never,Never,Never,Never,Never,Never,Rarely,10,1,0,0
+22,1,Rock,Yes,No,108,Rarely,Never,Sometimes,Rarely,Never,Never,Very frequently,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Rarely,8,7,0,5
+15,2,Rock,No,No,156,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Sometimes,3,2,6,7
+25,2,Metal,No,Yes,170,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Very frequently,5,5,3,1
+32,5,Rock,No,Yes,91,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,Never,10,10,3,1
+36,6,Metal,Yes,Yes,174,Very frequently,Never,Rarely,Very frequently,Never,Never,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Never,Never,Sometimes,Very frequently,5,4,10,2
+24,3,Rock,Yes,Yes,130,Sometimes,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Never,Never,Very frequently,Never,0,0,8,0
+29,4,Hip hop,Yes,No,140,Rarely,Sometimes,Rarely,Never,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,8,8,5,10
+41,3,Metal,Yes,Yes,130,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Never,10,7,8,0
+36,2,Rock,Yes,No,127,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,7,3,1,1
+19,3,Rock,Yes,No,160,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,8,7,4,0
+31,2,Rock,Yes,Yes,,Never,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Never,Never,Very frequently,Never,10,2,0,5
+16,4,Rock,No,Yes,,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Very frequently,9,8,1,2
+26,2,Hip hop,Yes,Yes,165,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Rarely,6,3,1,1
+22,0.5,Hip hop,No,No,113,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Never,7,7,0,1
+16,5,Jazz,Yes,Yes,167,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Sometimes,Never,7,7,8,4
+17,5,Metal,Yes,Yes,95,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Sometimes,4,1,0,0
+19,10,R&B,Yes,Yes,110,Never,Rarely,Very frequently,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Never,7,2,1,5
+18,2,EDM,No,Yes,150,Sometimes,Rarely,Very frequently,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Rarely,Very frequently,9,0,5,10
+18,4,Hip hop,Yes,Yes,93,Never,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,2,7,1,1
+19,5,Rock,Yes,Yes,90,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Rarely,10,8,7,0
+19,3,Jazz,Yes,No,118,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,3,0,0,0
+22,2,K pop,Yes,Yes,126,Never,Never,Very frequently,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Sometimes,Never,Sometimes,Very frequently,Rarely,7,8,5,1
+16,2.5,Rock,Yes,Yes,103,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Never,Very frequently,Rarely,2,1,0,0
+19,3,R&B,Yes,Yes,77,Rarely,Never,Sometimes,Never,Never,Very frequently,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,5,4,0,1
+37,1,Rock,No,No,115,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9,10,6,10
+14,7,Jazz,No,No,110,Rarely,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Sometimes,Never,Never,Very frequently,Very frequently,2,0,0,0
+33,1,Metal,No,Yes,,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Never,Never,Rarely,Never,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,5,2,5,1
+26,1,R&B,No,No,113,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Very frequently,Never,Never,Never,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Never,3,2,0,0
+32,3,Hip hop,No,No,157,Never,Never,Rarely,Never,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,2,0,7,0
+30,5,Metal,Yes,No,160,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,Never,7,6,6,2
+43,6,Video game music,Yes,Yes,109,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,5,4,8,3
+24,4,Classical,Yes,Yes,175,Very frequently,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Very frequently,Rarely,4,6,5,3
+36,1,Rock,Yes,No,110,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,6,2,3,1
+19,4,Video game music,Yes,No,162,Rarely,Never,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Sometimes,Never,Never,Rarely,Very frequently,8,2,1,6
+22,10,Metal,Yes,Yes,189,Rarely,Very frequently,Never,Very frequently,Never,Never,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Sometimes,9,6,0,6
+20,3,EDM,Yes,Yes,121,Rarely,Sometimes,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,0,3,7,0
+31,2,Rock,Yes,No,200,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,8,9,6,2
+19,4,Metal,Yes,Yes,105,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Rarely,4,1,1,1
+15,8,Rock,No,No,193,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,8,7,5,0
+18,2,Metal,Yes,Yes,149,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,3,4,6,1
+25,0.5,Classical,No,No,140,Very frequently,Never,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,1,1,3,1
+17,5,Metal,Yes,No,134,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10,8,6,7
+28,1,Rock,Yes,No,120,Rarely,Never,Very frequently,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Rarely,6,6,2,0
+20,3,Rock,Yes,Yes,170,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,6,7,0,0
+21,2,Metal,Yes,Yes,107,Sometimes,Rarely,Never,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,8,4,10,0
+41,3,Pop,No,Yes,113,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Never,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Never,9,7,6,2
+20,2,Pop,Yes,No,126,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Very frequently,Sometimes,7,4,6,5
+34,4,Metal,Yes,Yes,161,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,Rarely,6,7,0,0
+21,3,Metal,Yes,No,,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,Very frequently,Never,Never,Very frequently,Rarely,10,0,10,10
+23,2,Metal,Yes,Yes,100,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Never,Sometimes,Rarely,6,3,0,1
+16,3,Pop,No,No,140,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Rarely,Never,Never,7,5,5,3
+19,4,Pop,Yes,No,156,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,7,10,5,0
+22,2,Rock,Yes,Yes,98,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,6,0,0
+19,8,K pop,Yes,Yes,100,Very frequently,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Rarely,4,3,0,0
+23,4,Hip hop,Yes,Yes,78,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7,6,7,5
+23,2,Metal,No,Yes,117,Never,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,7,3,2,3
+22,1,EDM,Yes,No,128,Never,Never,Very frequently,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Sometimes,Sometimes,Never,2,7,5,0
+17,3,Rock,Yes,No,130,Rarely,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,7,8,6,5
+28,0.5,Folk,Yes,No,130,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Very frequently,Rarely,4,7,1,0
+23,2,Rock,Yes,Yes,,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Sometimes,7,8,5,1
+19,3,Rock,Yes,Yes,126,Never,Sometimes,Sometimes,Never,Never,Very frequently,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Very frequently,Sometimes,5,2,8,6
+17,2,Hip hop,Yes,Yes,122,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Never,10,7,4,2
+21,1,Rock,Yes,No,179,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,6,5,0,0
+29,5,Jazz,Yes,Yes,200,Rarely,Never,Never,Rarely,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Sometimes,7,2,3,1
+22,10,EDM,No,Yes,128,Sometimes,Sometimes,Very frequently,Very frequently,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Sometimes,4,7,7,3
+18,4,Pop,Yes,Yes,130,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,4,5,6,5
+13,2,Rock,Yes,No,120,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,7,10,5,6
+24,1,Metal,Yes,No,86,Sometimes,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,6,4,5,0
+35,6,Rock,Yes,Yes,166,Sometimes,Rarely,Sometimes,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,4,1,3,1
+29,1,Video game music,Yes,No,110,Sometimes,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,6,6,1,2
+28,6,Rock,No,No,144,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,10,8,7,1
+32,7,Pop,Yes,Yes,120,Sometimes,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,10,8,2,8
+32,1,EDM,Yes,No,120,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Never,3,6,2,0
+21,3,Rock,Yes,No,160,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8,9,2,0
+18,2,Video game music,No,Yes,101,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Very frequently,8,3,8,7
+19,3,Classical,Yes,No,122,Very frequently,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Never,Never,Rarely,Sometimes,3,3,1,2
+18,2,Pop,Yes,Yes,,Rarely,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,6,5,2,0
+16,3,Pop,No,No,,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Very frequently,Never,Rarely,Very frequently,Rarely,0,0,4,0
+25,1.5,Pop,No,No,61,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Never,6,5,0,2
+17,4,Lofi,Yes,Yes,79,Very frequently,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,3,8,0,0
+16,2,Rap,Yes,Yes,126,Very frequently,Never,Never,Never,Never,Very frequently,Never,Sometimes,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,1,8,0,0
+27,10,Metal,Yes,Yes,185,Sometimes,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Rarely,5,6,6,3
+53,7,Pop,Yes,Yes,92,Very frequently,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Rarely,0,0,0,0
+25,1,EDM,No,No,107,Never,Never,Very frequently,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,0,8,0,0
+34,2,Metal,No,No,120,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Never,3,7,0,0
+22,6,Jazz,Yes,Yes,140,Sometimes,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,8,8,8,5
+17,2,Jazz,Yes,No,94,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,5,2,3,4
+26,3,Folk,Yes,No,160,Rarely,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,8,8,3,0
+19,8,EDM,Yes,No,174,Never,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,6,8,8,0
+21,3,Pop,Yes,Yes,136,Rarely,Very frequently,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,6,8,6,0
+32,3,Rock,Yes,Yes,144,Rarely,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Rarely,6,6,7,5
+21,3,Rock,No,No,77,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Very frequently,9,10,3,0
+25,2,Pop,No,No,120,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,7,7,5,0
+26,1,Rock,No,No,,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,10,7,2,8
+21,2,Metal,Yes,Yes,,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,1,3,0,6
+17,2,Pop,No,Yes,,Rarely,Never,Never,Never,Never,Rarely,Very frequently,Very frequently,Never,Very frequently,Never,Very frequently,Very frequently,Sometimes,Never,Sometimes,5,3,2,1
+28,4,Rock,Yes,Yes,194,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,6,8,1,6
+41,4,Pop,Yes,No,60,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,7,2,0,7
+18,1,Metal,Yes,Yes,190,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Sometimes,6,9,9,0
+22,2,R&B,No,Yes,87,Sometimes,Never,Never,Never,Never,Rarely,Never,Very frequently,Very frequently,Sometimes,Never,Sometimes,Very frequently,Rarely,Rarely,Sometimes,1,1,4,1
+18,2,K pop,No,Yes,122,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Never,Very frequently,Sometimes,Never,Never,Never,0,2,0,0
+49,1,EDM,Yes,No,156,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,8,8,2,0
+21,3,Metal,Yes,No,150,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,3,3,7,0
+27,10,Metal,Yes,Yes,194,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,8,3,0
+19,1,Metal,Yes,Yes,160,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,6,4,0,3
+27,3,Metal,Yes,Yes,171,Sometimes,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Rarely,1,0,0,0
+27,1.5,Rock,No,No,95,Never,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,5,5,4,4
+19,3,K pop,Yes,Yes,114,Sometimes,Never,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,8,9,6,0
+42,2.5,Rock,No,Yes,148,Sometimes,Rarely,Very frequently,Rarely,Never,Sometimes,Very frequently,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Rarely,8,8,7,6
+60,2,Gospel,No,No,119,Rarely,Sometimes,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,3,0,2,0
+19,5,Metal,No,Yes,136,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Very frequently,Very frequently,Never,Never,Sometimes,Very frequently,Sometimes,0,5,1,0
+20,2,Pop,Yes,No,141,Rarely,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,Very frequently,Sometimes,Rarely,Sometimes,Rarely,6,3,0,0
+28,2,Metal,No,No,146,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Rarely,1,7,5,1
+16,2,Video game music,Yes,No,,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,4,2,1,1
+18,2,R&B,No,Yes,164,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Very frequently,Rarely,Never,Never,5,6,0,1
+34,1,Rock,Yes,Yes,,Rarely,Never,Very frequently,Never,Never,Never,Never,Very frequently,Never,Rarely,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,1,0,0,0
+18,1.5,Pop,Yes,No,,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,8,6,5,2
+21,5,Folk,Yes,Yes,128,Sometimes,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Rarely,9,4,0,3
+38,0.5,Rock,Yes,Yes,,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Never,4,6,6,4
+17,2,Rock,No,Yes,,Never,Rarely,Rarely,Rarely,Never,Never,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Very frequently,Very frequently,7,3,1,5
+35,0.5,Pop,No,No,,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Never,Sometimes,Rarely,10,3,1,0
+21,2,Rock,No,Yes,101,Rarely,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,8,8,3,0
+25,2.5,R&B,No,No,,Rarely,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,7,6,5,4
+18,2,K pop,Yes,Yes,98,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,7,2,3,5
+16,2,Pop,Yes,No,145,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,10,3.5,5,10
+19,1,Pop,Yes,Yes,94,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Never,7,5,1,2
+31,4,Classical,No,Yes,103,Very frequently,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,6,8,9,5
+26,5,Rock,No,No,,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Very frequently,Never,2,9,2,1
+16,2,Rock,No,No,112,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,7,4,10,2
+26,2,Rock,Yes,Yes,,Very frequently,Rarely,Rarely,Very frequently,Never,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Very frequently,Very frequently,7,5,6,0
+17,2,R&B,Yes,Yes,118,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,6,1,0,0
+22,1,Video game music,Yes,Yes,,Sometimes,Sometimes,Rarely,Very frequently,Never,Never,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,3,6,1,1
+20,4,R&B,Yes,Yes,113,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,9,10,3,0
+30,1,Rock,Yes,No,162,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,8,5,8,9
+26,4,Pop,No,No,,Rarely,Very frequently,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Never,Sometimes,Never,8,7,7,3
+19,5,Rock,Yes,Yes,111,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9,9,9,3
+21,5,Country,Yes,No,85,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,9,8,9,7
+33,7,Rock,Yes,Yes,134,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,9,3,7,8
+28,2,Rock,Yes,No,172,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Rarely,10,8,6,2
+25,3,Rock,Yes,Yes,180,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9,6,3,0
+22,2,Pop,No,No,120,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,7,7,8,3
+19,3,Rock,Yes,Yes,76,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Rarely,9,10,4,0
+44,3,Folk,Yes,Yes,130,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,9,9,8,2
+22,3,Rock,No,No,,Never,Rarely,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Rarely,9,10,3,9
+26,5,Metal,Yes,Yes,109,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,10,9,8,8
+23,6,Classical,No,Yes,96,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,6,5,6,8
+17,2,R&B,No,Yes,148,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,8,6,10,3
+42,2,Metal,Yes,No,,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,8,3,6,4
+30,1,Rock,Yes,No,129,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Rarely,4,2,1,3
+35,1,Pop,Yes,Yes,81,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,2,1,1,1
+20,3,Rock,Yes,No,136,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Rarely,10,10,7,3
+18,3,Rap,Yes,Yes,155,Rarely,Never,Never,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,8,9,0,0
+21,1,Pop,No,Yes,,Never,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Very frequently,Sometimes,Rarely,Sometimes,Rarely,4,9,6,2
+19,6,Rock,Yes,Yes,52,Never,Never,Rarely,Very frequently,Never,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,4,2,0,0
+37,4,Rock,Yes,No,97,Rarely,Sometimes,Sometimes,Sometimes,Never,Very frequently,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Never,9,2,7,7
+31,2,Metal,Yes,Yes,92,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,8,6,7,5
+29,2,Folk,Yes,Yes,100,Never,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Very frequently,Rarely,6,5,4,2
+20,3,Rock,Yes,Yes,120,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,8,5,2,3
+36,8,Video game music,No,Yes,143,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,7,6,6,1
+18,3,Rock,Yes,No,118,Sometimes,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Very frequently,Rarely,10,2,0,0
+18,2,K pop,Yes,Yes,130,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Never,6,0,0,0
+25,7,Pop,No,Yes,120,Never,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,2,0,1,0
+18,12,K pop,Yes,Yes,126,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,3,7,5,2
+31,9,Pop,Yes,Yes,158,Rarely,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Never,Rarely,Sometimes,Sometimes,9,0,2,0
+17,2,Pop,Yes,Yes,160,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Never,5,4,1,1
+21,1,Folk,No,Yes,,Never,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Very frequently,8,4,0,1
+30,1,Country,No,No,119,Never,Very frequently,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Rarely,8,10,2,0
+40,2,Metal,Yes,Yes,120,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,3,6,2,1
+64,4,Rock,No,No,200,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,4,4,2,1
+14,2,Rock,Yes,Yes,136,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,7,5,2,6
+26,6,Rock,Yes,No,104,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Very frequently,Never,3,2,0,0
+35,4,Country,Yes,Yes,90,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,9,9,5,1
+33,1,Rock,No,No,120,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Never,3,10,4,1
+30,6,Folk,Yes,Yes,89,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Very frequently,Never,9,0,5,0
+31,2,Metal,Yes,,95,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,7,6,6,5
+27,5,Folk,Yes,Yes,140,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Never,Very frequently,Very frequently,0,9,4,0
+53,1.5,Pop,Yes,Yes,92,Rarely,Never,Very frequently,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,2,2,2,1
+23,5,Metal,Yes,Yes,120,Sometimes,Rarely,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,6,9,2,1
+25,2,EDM,Yes,No,128,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Rarely,6,4,1,0
+16,4,K pop,Yes,Yes,140,Very frequently,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Rarely,8,9,4,0
+18,2,Rock,Yes,No,,Never,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Very frequently,Never,6,7,4,3
+29,5,Classical,Yes,Yes,,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,7,2,2,0
+31,6,EDM,Yes,Yes,136,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,8,6,5,6
+31,1,Rock,No,Yes,132,Sometimes,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,3,10,0,0
+38,6,Pop,Yes,Yes,107,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Never,9,4,9,7
+17,4,Classical,Yes,Yes,135,Very frequently,Never,Never,Never,Never,Very frequently,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,7,9,2,8
+25,2,EDM,No,Yes,171,Never,Sometimes,Very frequently,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,10,3,1,4
+20,2,Metal,No,Yes,220,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Rarely,0,0,0,1
+15,2,EDM,No,No,171,Never,Never,Very frequently,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,9,6,1,7
+16,4,Lofi,Yes,No,85,Rarely,Rarely,Very frequently,Rarely,Never,Rarely,Rarely,Never,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Rarely,Very frequently,7,1,3,5
+20,2,EDM,No,Yes,174,Sometimes,Never,Very frequently,Never,Never,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,9,7,5,7
+23,6,Rap,Yes,Yes,87,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Never,Very frequently,Very frequently,Sometimes,Rarely,Never,3,1,2,7
+22,3,Hip hop,Yes,Yes,77,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,6,6,8,0
+15,5,Rock,Yes,Yes,126,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,10,6,0,4
+17,0.5,Video game music,No,Yes,136,Rarely,Sometimes,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Very frequently,6,3,1,1
+22,1,Video game music,Yes,Yes,80,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Very frequently,3,3,0,7
+21,10,Metal,Yes,Yes,92,Never,Rarely,Rarely,Never,Never,Very frequently,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Sometimes,9,10,2,2
+19,2,Pop,No,Yes,120,Rarely,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,7,5,0,2
+32,0.5,Classical,Yes,No,,Very frequently,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,3,0,4,4
+34,1,Rock,No,Yes,138,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,9,9,6,4
+18,2,Metal,Yes,Yes,150,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,5,7,7,2
+21,3,Country,Yes,No,108,Rarely,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,0,8,0,5
+20,3,Country,Yes,Yes,119,Rarely,Very frequently,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Never,Never,Very frequently,Very frequently,Rarely,Sometimes,Never,8,4,3,4
+19,2,Country,Yes,No,125,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Never,7,2,0,7
+25,1,Pop,No,Yes,,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,9,9,6,9
+31,8,Classical,Yes,Yes,,Very frequently,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,5,7,5,4
+21,1,Pop,Yes,Yes,85,Very frequently,Rarely,Rarely,Sometimes,Never,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,5,1,0,0
+31,1,Folk,Yes,Yes,113,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,4,1,3,0
+20,1,Pop,Yes,No,86,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Very frequently,Never,Never,Sometimes,Never,3,5,3,0
+19,5,Rock,Yes,No,141,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Never,2,2,0,6
+19,5,EDM,Yes,Yes,97,Rarely,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,Very frequently,Sometimes,Rarely,0,1,3,5
+23,4,Metal,Yes,Yes,,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,7,8,6,2
+24,8,Video game music,Yes,No,120,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Very frequently,6,4,8,8
+20,0.7,Rock,No,No,144,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Very frequently,Rarely,Never,Very frequently,Rarely,5,6,8,2
+15,3,Video game music,No,No,84,Rarely,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Never,Never,Very frequently,Very frequently,6,6,2,6
+17,7,Hip hop,No,Yes,84,Never,Never,Rarely,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,8,9,3,4
+20,1.5,Video game music,No,Yes,60,Very frequently,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,8,4,3,3
+14,4,Video game music,Yes,Yes,81,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Very frequently,8,6,5,7
+24,4,Metal,Yes,Yes,150,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,8,8,7,7
+14,10,Video game music,No,No,95,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Rarely,Very frequently,5,2,5,0
+23,2,Rock,Yes,No,138,Very frequently,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,6,8,4,2
+28,2,Rock,No,No,,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,7,5,2,1
+22,6,Jazz,Yes,Yes,140,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,8,8,7,1
+25,0.5,Rock,Yes,Yes,139,Rarely,Never,Very frequently,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Sometimes,10,2,0,0
+27,2,Pop,Yes,Yes,100,Sometimes,Rarely,Very frequently,Never,Never,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,8,7,7,5
+18,5,Rock,Yes,Yes,,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,8,8,8,6
+17,3,Pop,Yes,No,120,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,10,9,2
+23,4.5,Rock,No,Yes,,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,6,1,8,4
+40,3,Rock,Yes,Yes,178,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,0,4,4,0
+27,20,Rock,Yes,Yes,,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8,10,10,8
+18,1,Pop,Yes,No,100,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Rarely,3,2,0,1
+16,2.5,Metal,Yes,No,110,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Rarely,Very frequently,Sometimes,5,3,3,1
+18,1,Rock,Yes,Yes,108,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,8,9,6,1
+23,2,Jazz,No,Yes,,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,10,3,0,10
+15,5,Metal,Yes,No,161,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Never,6,7,8,2
+20,3,Metal,Yes,No,200,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,7,4,7,0
+16,3,Rock,Yes,No,,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,9,8,6,2
+16,0.5,Rock,No,Yes,156,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Very frequently,Sometimes,8,0,0,0
+20,8,Country,Yes,No,120,Never,Very frequently,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Never,8,9,2,5
+33,2,Metal,Yes,Yes,,Rarely,Rarely,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Sometimes,Sometimes,Sometimes,7,2,3,0
+22,3,Rock,Yes,Yes,90,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Never,10,10,4,0
+21,3,Hip hop,Yes,Yes,85,Never,Never,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,8,3,3
+21,5,Metal,Yes,Yes,171,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,8,7,7,4
+29,1.5,Rock,Yes,Yes,108,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,7,1,2
+56,1,Pop,No,No,105,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Sometimes,Never,6,5,10,2
+17,2,Pop,Yes,No,76,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Never,Rarely,7,6,0,4
+22,1,Pop,No,No,108,Rarely,Rarely,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Rarely,7,4,0,0
+26,4,Pop,Yes,Yes,140,Sometimes,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,8,7,2,10
+30,1,EDM,Yes,Yes,200,Never,Never,Very frequently,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,4,4,4,0
+49,2,Folk,Yes,No,147,Rarely,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,0,0,2,0
+22,2,EDM,Yes,Yes,120,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,6,4,0,1
+32,2,Rock,Yes,No,158,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,4,7,0,0
+32,1,Rock,No,No,110,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Sometimes,Very frequently,Rarely,Never,Very frequently,Never,8,4,3,0
+22,6,Country,Yes,No,103,Never,Very frequently,Never,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Very frequently,Rarely,5,5,3,3
+17,2,Rock,Yes,Yes,93,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,0,8,0,0
+21,4,Rock,Yes,No,62,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Very frequently,Never,7,4,6,1
+17,1.5,Rock,Yes,Yes,180,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,8,7,7,3
+25,3,Metal,No,No,150,Sometimes,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Never,Very frequently,Sometimes,9,8,6,2
+15,4,Rock,Yes,No,105,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Never,8,6,4,0
+13,10,Rap,Yes,No,140,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Very frequently,Never,Rarely,7,2,0,8
+38,3,Rock,No,Yes,,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Very frequently,Sometimes,Rarely,Never,Very frequently,Never,6,7,7,7
+23,3,Rock,Yes,No,161,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,7,6,4,2
+17,3,Pop,Yes,Yes,120,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,1,1,1,0
+59,2,Pop,Yes,No,103,Rarely,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Never,1,1,3,0
+22,2,Pop,Yes,No,72,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Rarely,Never,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,2,7,1,2
+17,3,Pop,Yes,Yes,113,Sometimes,Rarely,Never,Never,Never,Very frequently,Sometimes,Very frequently,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Sometimes,Rarely,6,2,3,1
+27,2,Pop,No,No,120,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,7,7,3,2
+23,5,Video game music,No,No,95,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,8,7,0,3
+15,6,Rock,No,No,97,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Very frequently,Sometimes,8,3,5,2
+22,3,EDM,Yes,No,140,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,5,4,2,0
+23,5,Lofi,Yes,Yes,120,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Very frequently,7,10,10,1
+19,5,Country,Yes,Yes,118,Rarely,Very frequently,Never,Very frequently,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,7,6,8,4
+32,6,Rock,No,No,91,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Rarely,8,7,0,9
+40,6,Rock,Yes,Yes,128,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10,7,3,3
+21,3,Country,Yes,No,86,Never,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Never,6,5,5,3
+21,10,Rock,Yes,Yes,107,Rarely,Never,Very frequently,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,8,7,6,8
+23,2,Video game music,Yes,Yes,180,Sometimes,Never,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Sometimes,Very frequently,10,7,7,3
+21,2,EDM,No,Yes,,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Sometimes,Very frequently,10,10,5,7
+35,3,Folk,Yes,No,0,Sometimes,Sometimes,Never,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,8,2,2,8
+18,1.5,Hip hop,No,No,150,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Never,3,7,4,0
+21,10,Pop,Yes,No,112,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,9,7,5,5
+22,2,Video game music,No,Yes,,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,5,3,0,0
+23,3,Rock,Yes,Yes,66,Rarely,Rarely,Never,Very frequently,Never,Sometimes,Sometimes,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,Never,10,7,0,10
+13,2.5,Folk,No,No,118,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,8,0,0,3
+19,3,K pop,Yes,Yes,110,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Never,6,0,3,0
+33,0.5,Rock,No,No,80,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Rarely,7,9,4,6
+18,16,Jazz,Yes,Yes,90,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,3,2,5,6
+17,6,Classical,Yes,Yes,120,Very frequently,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Very frequently,Never,Never,Never,Rarely,4,2,0,0
+16,3,EDM,Yes,Yes,100,Rarely,Never,Very frequently,Never,Never,Very frequently,Sometimes,Very frequently,Never,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,4,2,0,0
+18,0.5,Rock,Yes,No,66,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,5,3,1,0
+19,5,K pop,Yes,Yes,158,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Rarely,Rarely,4,2,2,1
+15,2,Rap,Yes,Yes,105,Very frequently,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Sometimes,Never,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,4,0,6,5
+17,2,Pop,Yes,Yes,208,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,7,6,3,1
+25,2,Lofi,Yes,Yes,91,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,7,8,6,2
+24,1.5,Video game music,No,Yes,171,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,3,4,1,1
+23,1,Jazz,Yes,No,150,Rarely,Rarely,Very frequently,Never,Rarely,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Sometimes,9,7,2,1
+16,10,EDM,Yes,Yes,180,Rarely,Rarely,Very frequently,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,10,9,3,2
+25,2,Metal,Yes,Yes,,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9,9,7,3
+16,15,EDM,Yes,No,85,Rarely,Never,Very frequently,Never,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Very frequently,Sometimes,8,10,9,2
+20,0.5,Metal,Yes,Yes,150,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,8,9,6,4
+17,3,Metal,Yes,No,104,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,Never,5,6,9,9
+29,2,Metal,Yes,No,,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,Never,9,3,7,2
+20,4,Hip hop,Yes,No,85,Never,Rarely,Very frequently,Rarely,Never,Very frequently,Never,Never,Never,Never,Never,Sometimes,Sometimes,Very frequently,Sometimes,Never,3,2,1,6
+16,2,Folk,Yes,No,,Never,Never,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,Sometimes,Never,7,7,4,0
+21,1,Rock,Yes,No,147,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Very frequently,Very frequently,7,9,1,2
+16,24,Rock,Yes,Yes,120,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,5,1,9,1
+43,1,Pop,Yes,No,134,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,3,3,0,0
+32,2,Classical,Yes,No,,Very frequently,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,8,7,5,4
+10,2,Pop,Yes,Yes,112,Very frequently,Never,Rarely,Never,Never,Rarely,Rarely,Very frequently,Never,Rarely,Never,Very frequently,Never,Rarely,Never,Very frequently,8,2,1,1
+27,3,Metal,Yes,Yes,200,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,4,0,0,0
+24,3,Classical,No,Yes,75,Very frequently,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Never,Never,9,6,1,1
+18,2,Hip hop,Yes,Yes,20,Rarely,Never,Rarely,Never,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Never,Never,Sometimes,Very frequently,Very frequently,Never,Never,10,7,2,0
+17,7,Rock,No,No,140,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Very frequently,Sometimes,8,7,7,4
+19,6,Metal,Yes,No,111,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Sometimes,1,0,0,0
+16,3,Rock,Yes,Yes,150,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,5,7,1,4
+64,5,Rock,Yes,No,,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Never,7,6,9,2
+33,4,Lofi,Yes,Yes,114,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,8,8,2,2
+32,3,Rock,No,Yes,93,Very frequently,Sometimes,Sometimes,Sometimes,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Rarely,2,2,8,0
+15,2,Pop,Yes,No,145,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,Sometimes,Never,Never,6,0,0,2
+27,3,Metal,Yes,Yes,100,Very frequently,Very frequently,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,2,0,1,0
+20,2,Rock,Yes,No,114,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,6,2,6,7
+23,2,Pop,Yes,Yes,109,Rarely,Very frequently,Never,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,6,1,0,5
+19,3,Classical,Yes,No,,Very frequently,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,7,6,4,0
+12,2,Classical,No,No,,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,0,0,3,0
+16,3,Classical,No,No,72,Very frequently,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Rarely,9,7,10,6
+17,0,Video game music,No,Yes,89,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Very frequently,10,0,0,0
+14,1,Pop,Yes,No,140,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,6,6,3,0
+32,2,Metal,Yes,No,84,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Very frequently,4,3,1,6
+20,2,Pop,No,Yes,132,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,6,2,2,1
+54,6,Classical,No,No,,Very frequently,Sometimes,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Never,2,2,3,2
+18,5,K pop,Yes,Yes,124,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,7,4,5,6
+14,2,Classical,Yes,No,181,Very frequently,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Rarely,7,5,3,2
+13,4,Classical,Yes,No,126,Very frequently,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Sometimes,Sometimes,8,5,10,3
+19,8,Country,Yes,No,109,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,7,5,6,5
+14,4,Classical,Yes,No,106,Very frequently,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,6,8,8,2
+14,1.5,Classical,Yes,,140,Very frequently,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,1,2,4,3
+18,2,Rap,Yes,Yes,170,Very frequently,Never,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,3,2,0,2
+15,5,Folk,Yes,Yes,87,Rarely,Sometimes,Never,Very frequently,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Rarely,6,7,7,4
+24,6,Classical,No,No,,Very frequently,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Never,6,7,2,0
+17,2,Pop,No,Yes,117,Rarely,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Very frequently,Very frequently,Never,Never,Sometimes,9,8,4,8
+44,2,Rock,Yes,No,105,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Never,7,7,2,1
+23,1,Rock,Yes,No,,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Never,1,0,1,0
+21,1,Rap,No,No,160,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,4,3,4,5
+57,2,R&B,Yes,No,,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,2,0,0,0
+23,2,Rock,Yes,Yes,141,Rarely,Rarely,Never,Very frequently,Never,Rarely,Never,Never,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,Very frequently,Very frequently,0,5,7,0
+18,1,Pop,No,Yes,105,Sometimes,Rarely,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Never,Never,Never,Very frequently,8,7,7,0
+26,14,Hip hop,Yes,Yes,158,Sometimes,Sometimes,Rarely,Very frequently,Never,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,5,10,8,0
+13,3,Classical,No,No,80,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,8,7,9,2
+15,3,Classical,Yes,No,118,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,9,6,8,5
+57,2,Rock,Yes,No,125,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Never,2,2,7,0
+12,0.5,Classical,Yes,Yes,109,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,7,8,6,2
+26,6,EDM,No,Yes,156,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,10,10,8,2
+17,1,Country,No,No,105,Never,Very frequently,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,8,5,2,3
+17,2,Classical,Yes,Yes,,Very frequently,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Sometimes,7,8,2,5
+69,4,Classical,Yes,Yes,72,Very frequently,Sometimes,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Never,1,1,2,0
+17,3,R&B,Yes,Yes,148,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Never,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Never,9,10,10,3
+32,12,Jazz,Yes,Yes,200,Never,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Rarely,Never,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Never,9,4,4,4
+22,3,Classical,Yes,No,113,Very frequently,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,8,2,4,0
+38,1,Metal,Yes,Yes,191,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,1,1,5,1
+18,10,EDM,Yes,No,140,Never,Never,Very frequently,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Never,10,9,9,8
+14,5,Classical,Yes,Yes,40,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,3,0,2,3
+14,0.5,Video game music,Yes,Yes,173,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Never,Never,Never,Very frequently,4,0,4,0
+19,5,Metal,Yes,Yes,180,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,2,3,5,2
+20,3,Classical,Yes,No,100,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Rarely,2,3,3,0
+18,2,Rock,Yes,No,123,Never,Very frequently,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,8,4,3,0
+30,13,K pop,Yes,Yes,145,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,10,10,10,7
+31,4,Classical,Yes,Yes,55,Very frequently,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,8,8,9,3
+72,6,Rock,No,No,77,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Rarely,Very frequently,Never,Very frequently,Never,0,1,0,2
+73,3,R&B,Yes,Yes,4,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Never,5,4,0,1
+16,4,Pop,Yes,Yes,150,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,7.5,5,7,8.5
+19,3,Rap,Yes,Yes,73,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,3,3,0,0
+16,2,Classical,No,No,155,Very frequently,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Never,Never,Rarely,Rarely,7,5,3,1
+12,2,Classical,Yes,Yes,,Very frequently,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,8,0,1,6
+39,1,Hip hop,Yes,Yes,89,Never,Rarely,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Never,6,4,1,1
+15,6,K pop,Yes,Yes,110,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Never,8,8,7,10
+14,9,R&B,Yes,Yes,140,Very frequently,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Rarely,10,8,9,5
+21,1,Country,No,No,135,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,3,0,2,0
+38,1,Video game music,No,No,125,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,5,5,7,1
+23,0.5,Hip hop,Yes,Yes,110,Sometimes,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,7,7,6,5
+16,1,EDM,Yes,No,140,Never,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,7,4,6,3
+21,1.5,Folk,No,No,105,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,3,3,1,0
+13,6,Rap,Yes,No,112,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Never,Rarely,Never,Rarely,Never,Very frequently,Never,Never,4,0,0,2
+16,4,Rock,Yes,No,96,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Never,Very frequently,Sometimes,3,0,6,9
+18,6,Rock,Yes,No,,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Never,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,5,1,6,0
+21,4,Metal,Yes,Yes,155,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Very frequently,10,6,8,0
+17,1.5,Classical,Yes,Yes,174,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Sometimes,Never,Very frequently,Rarely,Never,Never,Never,7,5,1,2
+24,2,Rock,Yes,Yes,93,Rarely,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Very frequently,Never,7,7,0,4
+14,2,Pop,Yes,No,78,Rarely,Never,Never,Sometimes,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,6,0,0,0
+25,4,Rock,Yes,Yes,,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,6,2,3,2
+22,3,Lofi,Yes,Yes,174,Rarely,Very frequently,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,7,6,7,9
+20,4,Rock,Yes,Yes,120,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Rarely,5,7,7,0
+23,2,Pop,No,No,75,Sometimes,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7,6,4,3
+61,2,Rock,Yes,No,94,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,2,2,2,0
+24,6,Video game music,No,Yes,180,Sometimes,Never,Sometimes,Very frequently,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Very frequently,9,5,0,7
+34,0,Rock,No,Yes,115,Rarely,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,3,7,8,0
+49,1,Pop,Yes,No,128,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Sometimes,Never,4,5,9,1
+33,4,Rock,Yes,Yes,112,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Very frequently,Very frequently,1,0,7,0
+22,2,Metal,No,No,140,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,3,2,0,2
+38,3,Metal,Yes,Yes,143,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,1,6,1,2
+23,4,Hip hop,Yes,No,72,Rarely,Rarely,Never,Rarely,Never,Very frequently,Rarely,Never,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Rarely,8,10,4,0
+34,2,Video game music,No,Yes,100,Rarely,Rarely,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Very frequently,8,10,10,0
+40,3,Metal,Yes,Yes,120,Never,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Never,3,0,8,1
+27,1,Hip hop,Yes,No,,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Never,Never,3,4,1,0
+54,10,Rock,Yes,No,,Sometimes,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,2,1,2,2
+16,10,Rock,Yes,No,105,Rarely,Very frequently,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,0,0,0,0
+23,10,Video game music,No,Yes,119,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Very frequently,8,8,5,0
+35,4,Country,Yes,No,,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,1,1,1,0
+22,4,Folk,Yes,Yes,137,Rarely,Sometimes,Very frequently,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,7,6,2
+41,3,Metal,Yes,Yes,178,Very frequently,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,6,5,4,0
+63,2,Rock,Yes,No,133,Very frequently,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Never,5,4,6,2
+28,1,Rock,Yes,No,72,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Never,3,1,0,2
+22,6,Country,Yes,No,,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,4,8,2,2
+58,1,Rock,Yes,No,133,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Never,5,6,3,1
+58,1,Classical,Yes,No,80,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Never,Never,Never,0,0,2,1
+67,4,Rock,No,No,146,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Never,7,6,7,4
+70,2,Country,No,No,88,Sometimes,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,8,5,6,1
+60,2,Rock,No,Yes,132,Sometimes,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,4,4,2,0
+15,2,Pop,Yes,No,102,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Never,Very frequently,Sometimes,Never,Sometimes,Very frequently,9,8,10,9
+18,6,EDM,Yes,Yes,91,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,5,5,7,0
+58,3,Hip hop,Yes,Yes,127,Sometimes,Never,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Never,Sometimes,Very frequently,Never,Rarely,Very frequently,Sometimes,Sometimes,Never,4,6,8,1
+28,1,Lofi,Yes,Yes,82,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,4,8,5,0
+22,4,Lofi,Yes,No,141,Rarely,Rarely,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9,10,6,7
+49,0.5,Classical,No,No,114,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,3,2,2,2
+20,8,Rock,Yes,Yes,148,Never,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Never,Very frequently,Sometimes,6,2,2,1
+55,15,Rock,No,No,156,Rarely,Never,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Very frequently,Never,2,0,3,0
+48,1.5,Metal,No,No,185,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Rarely,10,8,0,4
+14,2,K pop,Yes,Yes,114,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Rarely,4,4,2,2
+18,3,Pop,Yes,Yes,120,Sometimes,Never,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7,8,6,2
+25,1,Pop,Yes,Yes,80,Very frequently,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,7,6,5,5
+71,0.25,Gospel,No,Yes,,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Rarely,Never,1,0,0,0
+60,1,Gospel,No,No,,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,6,2,8,0
+18,1,Video game music,No,No,116,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Sometimes,Very frequently,4,5,7,0
+19,5,Hip hop,No,Yes,99,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,10,7,0,0
+74,1,Pop,No,No,129,Rarely,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Never,Sometimes,Never,4,2,1,0
+36,1,Hip hop,No,No,131,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,7,6,2,3
+14,7,Lofi,Yes,Yes,95,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Very frequently,Never,Very frequently,Never,Sometimes,Never,Rarely,3,2,8,0
+20,3,Hip hop,Yes,Yes,80,Very frequently,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,10,7,4,3
+15,3,K pop,Yes,Yes,204,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Very frequently,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,4,0,0,0
+19,7,Rock,No,No,128,Sometimes,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Sometimes,7,7,0,0
+29,8,EDM,No,Yes,140,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Very frequently,Very frequently,6,7,4,1
+24,2,Metal,Yes,No,159,Never,Rarely,Very frequently,Sometimes,Very frequently,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Never,Sometimes,Rarely,7,6,2,7
+18,2,Pop,Yes,Yes,104,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Never,6,5,8,0
+21,2,Rock,Yes,Yes,97,Sometimes,Never,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Rarely,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,10,10,2,3
+19,2,K pop,Yes,Yes,80,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Sometimes,Never,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,7,6,5,1
+25,4,Video game music,Yes,Yes,134,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,3,0,0,0
+28,8,Rock,Yes,Yes,,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,2,1,0
+27,4,Rap,Yes,No,135,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Rarely,7,6,6,5
+60,1,Rock,Yes,No,129,Sometimes,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Never,3,2,5,0
+25,5,Metal,No,Yes,,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Rarely,8,2,1,0
+60,2,Rock,No,No,,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,7,7,2,4
+43,1,Country,No,No,110,Never,Very frequently,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,5,1,1,1
+51,5,Rock,No,No,180,Sometimes,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Very frequently,Rarely,1,2,1,0
+63,8,Rock,Yes,No,70,Sometimes,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Never,2,1,2,2
+64,2,Classical,No,No,,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Never,5,2,4,0
+22,2,Pop,No,No,,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,7,2,1,0
+24,1,Folk,No,Yes,103,Sometimes,Never,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,10,10,7,8
+19,8,Pop,Yes,Yes,99,Rarely,Sometimes,Sometimes,Very frequently,Never,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,7,2,1,6
+56,8,Pop,Yes,No,117,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,6,4,1,0
+20,1,EDM,Yes,No,102,Rarely,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Rarely,Very frequently,Rarely,Very frequently,Never,Never,Never,Never,5,9,6,1
+19,1,Video game music,No,No,127,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,7,5,7,0
+20,8,Jazz,Yes,Yes,93,Rarely,Sometimes,Rarely,Very frequently,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Sometimes,Rarely,7,6,7,4
+60,2,Rock,No,No,,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Never,0,0,0,0
+65,6,R&B,No,Yes,146,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Very frequently,Never,Sometimes,Never,3,5,0,2
+28,3,Metal,Yes,Yes,0,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Never,Very frequently,Very frequently,8,8,5,2
+18,4,EDM,No,Yes,150,Very frequently,Never,Very frequently,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Rarely,Sometimes,8,7,10,6
+42,2,Rock,No,Yes,85,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,2,4,5,2
+80,3,Classical,No,No,122,Very frequently,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Sometimes,7,3,9,2
+22,4,Pop,Yes,No,,Rarely,Sometimes,Very frequently,Sometimes,Never,Rarely,Never,Never,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Never,8,7,4,4
+56,2,Jazz,Yes,Yes,120,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Very frequently,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,0,0,0,5
+20,1,Pop,No,Yes,120,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Never,8,6,9,8
+15,1,Video game music,Yes,Yes,150,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,4,2,3,2
+67,1,Rock,No,No,,Sometimes,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,3,2,2,2
+57,2,Gospel,No,No,174,Sometimes,Never,Never,Rarely,Very frequently,Never,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,6,4,10,0
+22,7,Pop,Yes,Yes,112,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,Very frequently,Sometimes,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,8,8,10,0
+17,5,Pop,Yes,Yes,180,Never,Never,Sometimes,Never,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,Sometimes,Rarely,Rarely,5,5,5,5
+19,3,Rock,No,No,121,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Sometimes,Very frequently,Sometimes,10,8,6,2
+50,1,Rock,No,No,98,Sometimes,Sometimes,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Never,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Never,0,0,7,0
+24,6,Rock,Yes,Yes,118,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Rarely,Sometimes,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Sometimes,8,8,10,0
+67,2,Rock,Yes,No,,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,8,2,0,0
+18,3,Metal,Yes,No,135,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,7,8,4,10
+20,1.5,Country,No,No,,Rarely,Very frequently,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Never,Sometimes,Sometimes,Never,0,2,0,1
+15,4,Pop,Yes,No,105,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,3,5,4,0
+17,2,Pop,Yes,Yes,122,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,Sometimes,Never,Never,5,2,3,1
+32,2,Folk,Yes,No,,Never,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,6,1,0,0
+18,2,Rap,Yes,Yes,136,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Very frequently,6,3,4,2
+18,1,Rock,Yes,No,165,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,5,6,8,2
+18,3,K pop,Yes,Yes,130,Sometimes,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Rarely,8,4,7,5
+19,3,Pop,Yes,No,,Never,Never,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,1,1,2,3
+18,2,Rock,Yes,No,115,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,8,3,1,3
+17,6,Rap,Yes,No,140,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Never,Sometimes,Never,Sometimes,Sometimes,Very frequently,Rarely,Never,3,3,0,0
+34,3,Classical,No,Yes,95,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,0,0,0,0
+18,3,Pop,No,No,150,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,Rarely,Never,Rarely,Rarely,Very frequently,Rarely,Very frequently,Rarely,Sometimes,5,4,2,0
+18,2,R&B,Yes,No,97,Never,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Rarely,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,2,4,0,0
+22,2,Video game music,No,No,,Sometimes,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Never,Never,Very frequently,4,6,0,2
+18,2,Pop,Yes,No,,Sometimes,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,5,7,2,0
+19,3,Rock,Yes,Yes,122,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Never,4,0,7,0
+25,4,Pop,Yes,Yes,150,Rarely,Never,Sometimes,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Rarely,10,8,6,2
+17,2,R&B,Yes,No,,Very frequently,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Never,3,3,1,0
+25,5,Rock,Yes,No,125,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Very frequently,Sometimes,8,7,2,1
+18,2,R&B,No,No,96,Sometimes,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,3,3,0,3
+21,1,K pop,Yes,,,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,4,5,2,5
+24,7,Folk,Yes,Yes,137,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,10,10,8,10
+16,3,K pop,No,Yes,174,Rarely,Never,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Never,Very frequently,Rarely,Sometimes,Never,Never,10,2,7,8
+18,3,Metal,Yes,No,210,Never,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,Rarely,Never,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Rarely,9,6,8,5
+18,4,R&B,Yes,Yes,129,Rarely,Rarely,Rarely,Never,Never,Very frequently,Sometimes,Never,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,6,4,1,6
+16,3,Pop,Yes,No,112,Very frequently,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Very frequently,Never,Sometimes,Never,3,4,6,8
+68,1,Gospel,No,No,8,Very frequently,Never,Never,Sometimes,Very frequently,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,10,10,10,0
+16,7,Video game music,Yes,No,999999999,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Sometimes,Never,Very frequently,Rarely,Sometimes,4,8,8,4
+21,1,R&B,Yes,Yes,81,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Never,Never,Never,Very frequently,Very frequently,Sometimes,Never,Never,3,0,0,0
+53,4,R&B,Yes,Yes,153,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,1,0,0,0
+29,4,Classical,Yes,No,120,Very frequently,Never,Very frequently,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,5,6,7,7
+18,3,Video game music,Yes,Yes,89,Sometimes,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Very frequently,7,0,3,1
+29,2,Pop,No,No,,Never,Never,Rarely,Rarely,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,Very frequently,Never,Very frequently,Never,Very frequently,10,8,8,9
+18,4,R&B,Yes,Yes,169,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,3,0,3,4
+22,5,EDM,Yes,Yes,138,Never,Never,Very frequently,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,1,0,0,1
+19,6,Pop,No,No,124,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,6,6,0,0
+13,1,Video game music,Yes,No,,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,4,3,4,0
+26,1,Pop,No,No,192,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Never,Very frequently,Rarely,Rarely,Sometimes,Never,6,4,0,0
+14,3,Rock,Yes,No,76,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,2,6,3,0
+27,1,Pop,Yes,Yes,119,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,8,3,3,3
+26,8,Rock,No,Yes,172,Never,Sometimes,Sometimes,Very frequently,Never,Very frequently,Rarely,Very frequently,Never,Never,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,8,10,7,3
+59,1,Rock,No,No,79,Rarely,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Very frequently,Never,1,0,0,1
+30,8,Rock,Yes,No,112,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Never,8,6,6,8
+27,1,Pop,Yes,Yes,130,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,6,3,1,7
+18,1,Rap,Yes,Yes,116,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Never,Sometimes,2,0,3,0
+23,10,Metal,No,Yes,165,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Sometimes,Never,0,0,0,0
+18,10,Rock,Yes,No,110,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Never,10,10,6,6
+40,5,Rock,Yes,Yes,174,Sometimes,Sometimes,Sometimes,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,3,0,0,1
+24,10,Rock,Yes,Yes,180,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Sometimes,7,9,10,0
+23,2,Classical,Yes,Yes,171,Very frequently,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Very frequently,Never,8,7,6,2
+56,6,R&B,No,No,,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,2,0,10,10
+29,2,R&B,Yes,No,70,Rarely,Never,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Sometimes,10,7,9,3
+16,3,Pop,No,Yes,120,Never,Never,Never,Never,Never,Very frequently,Never,Very frequently,Never,Never,Never,Very frequently,Sometimes,Never,Never,Never,6,0,0,0
+18,8,Gospel,Yes,Yes,56,Rarely,Never,Rarely,Never,Very frequently,Sometimes,Sometimes,Never,Sometimes,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Sometimes,3,0,2,2
+21,8,Lofi,Yes,Yes,162,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,6,5,9,8
+32,8,Rock,Yes,No,101,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Sometimes,7,6,5,8
+22,8,Metal,Yes,No,110,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,10,7,8,6
+17,12,Latin,Yes,No,172,Very frequently,Never,Rarely,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Sometimes,0,3,9,5
+18,6,EDM,Yes,Yes,90,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,Rarely,Sometimes,0,2,1,5
+18,4,R&B,No,Yes,135,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Sometimes,Very frequently,Very frequently,Never,Rarely,2,0,0,0
+24,8,Jazz,Yes,No,81,Very frequently,Never,Rarely,Never,Never,Very frequently,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Very frequently,Rarely,2,2,4,0
+21,2,Pop,No,No,170,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,5,6,3,4
+46,1,Rock,No,No,120,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,0,0,1,0
+18,2,Hip hop,Yes,No,90,Never,Never,Never,Never,Sometimes,Very frequently,Never,Never,Never,Sometimes,Never,Sometimes,Very frequently,Very frequently,Never,Never,5,4,3,7
+16,3,K pop,Yes,Yes,115,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,2,7,0,0
+21,1,Video game music,Yes,Yes,,Very frequently,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,0,6,0,4
+19,0,Classical,Yes,Yes,,Very frequently,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,0,0,0,0
+20,2,Rap,Yes,Yes,,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,7,5,1,3
+21,0.1,Folk,No,Yes,,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Never,7,5,3,1
+56,2,Rock,No,Yes,220,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Very frequently,Never,3,3,1,8
+21,12,Rock,Yes,Yes,160,Sometimes,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Rarely,7,10,4,7
+20,1,Pop,Yes,No,121,Rarely,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Never,3,2,3,0
+21,1,Rock,No,No,105,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,5,1,1,9
+25,3,Rock,No,No,110,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Very frequently,Sometimes,8,9,4,10
+33,2,Metal,Yes,Yes,134,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,4,8,0,0
+20,2,Rock,Yes,Yes,148,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,7,9,7,0
+17,3,Rock,Yes,No,120,Sometimes,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Never,Rarely,Very frequently,Very frequently,Never,Rarely,Very frequently,Never,1,5,6,4
+24,1,Jazz,Yes,Yes,122,Rarely,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,3,2,1,0
+26,3,Jazz,Yes,Yes,90,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Never,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Rarely,6,8,0,0
+17,3,Rock,No,No,122,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Very frequently,6,3,6,0
+16,5,Metal,Yes,Yes,129,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,7,4,8,0
+27,8,Metal,Yes,No,132,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Sometimes,Never,2,6,9,1
+28,4,Hip hop,Yes,Yes,178,Rarely,Sometimes,Sometimes,Rarely,Never,Very frequently,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Rarely,8,5,3,8
+48,5,Rock,Yes,Yes,,Very frequently,Sometimes,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,3,3,0,0
+19,3,Rap,No,Yes,115,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Sometimes,7,5,3,3
+21,4,Rock,Yes,Yes,137,Sometimes,Very frequently,Rarely,Very frequently,Never,Sometimes,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,4,8,2,3
+21,1,Classical,No,No,92,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,3,0,0,5
+15,4,Metal,Yes,Yes,140,Rarely,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10,7,3,2
+20,1,Rock,Yes,Yes,130,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Very frequently,Never,10,4,8,0
+21,2,Video game music,No,Yes,,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,Never,Very frequently,Very frequently,2,2,0,0
+22,6,Folk,Yes,No,63,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,8,7,7,3
+22,2,Rock,No,No,119,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Never,Never,Very frequently,Sometimes,10,5,2,8
+31,1,Rock,Yes,No,,Very frequently,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Very frequently,9,10,10,6
+20,4,Metal,Yes,No,180,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Sometimes,5,2,1,6
+49,8,Classical,No,No,68,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,4,8,9,1
+42,2,Metal,Yes,Yes,85,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Never,Very frequently,Very frequently,7,8,5,3
+26,2,EDM,Yes,Yes,128,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Never,2,2,0,3
+17,10,K pop,Yes,Yes,150,Rarely,Sometimes,Rarely,Rarely,Never,Very frequently,Never,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,10,3,0,4
+30,0,Metal,No,No,0,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,10,10,10,9
+23,6,Folk,Yes,Yes,92,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,3,7,7,4
+30,3,EDM,Yes,Yes,121,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Very frequently,Never,Never,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Never,7,5,7,7
+31,2,Metal,No,Yes,155,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,Sometimes,7,4,8,8
+42,0.25,Classical,Yes,Yes,150,Very frequently,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,7,9,4,5
+16,4,EDM,Yes,Yes,624,Sometimes,Never,Very frequently,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,4,7,1,3
+34,2,Metal,Yes,No,136,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,5,9,9,6
+21,2,Pop,Yes,No,121,Sometimes,Never,Very frequently,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,5,4,10,7
+27,3,Pop,No,No,113,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,7,2,0,1
+18,6,Folk,Yes,Yes,80,Never,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,6,0,2
+26,3,Metal,Yes,No,140,Rarely,Very frequently,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,1,3,10,0
+37,2,Rock,Yes,No,100,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,8,10,10,2
+26,5,Folk,Yes,Yes,92,Sometimes,Rarely,Rarely,Very frequently,Never,Very frequently,Very frequently,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,4,7,6,0
+19,4,Pop,No,Yes,120,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,9,6,3,0
+22,4,Rock,Yes,No,93,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Very frequently,10,7,4,4
+43,0,Rock,No,No,,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Never,1,2,2,0
+24,12,Rock,Yes,No,136,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,7,10,0,8
+21,0.5,Pop,No,No,108,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Never,10,2,1,10
+28,1,Rock,No,No,147,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,2,1,2,2
+23,3,R&B,Yes,Yes,93,Very frequently,Never,Never,Very frequently,Never,Very frequently,Very frequently,Never,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,3,10,0,0
+20,12,Rock,Yes,Yes,98,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,7,10,2,0
+17,4,Metal,No,No,120,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Never,Very frequently,Sometimes,4,2,0,0
+19,3,R&B,No,No,130,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,4,2,5,3
+32,1,Metal,Yes,Yes,218,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,6,8,7,0
+18,4,Folk,Yes,Yes,123,Sometimes,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,8,6,4,0
+20,2,Rock,Yes,No,135,Sometimes,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Never,Never,Very frequently,Sometimes,2,2,0,0
+27,3,Rock,Yes,Yes,105,Rarely,Never,Very frequently,Rarely,Never,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,8,7,9,3
+15,3,Rock,No,,132,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Never,Very frequently,Rarely,4,3,5,0
+26,1,Rock,Yes,Yes,,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Very frequently,Rarely,Rarely,Very frequently,Sometimes,6,1,0,4
+24,2,Pop,Yes,Yes,115,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Sometimes,Rarely,Rarely,6,6,3,6
+20,1,K pop,Yes,Yes,120,Sometimes,Never,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Never,Rarely,Never,8,7,1,1
+21,0.5,Pop,Yes,Yes,,Never,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,5,3,4,1
+16,2,Video game music,No,No,149,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,6,2,4,3
+21,11,Metal,Yes,Yes,125,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,5,6,6,0
+27,10,Jazz,Yes,Yes,132,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,6,10,8,1
+17,5,Rock,Yes,No,110,Very frequently,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Never,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,7,3,9,7
+21,1.5,Classical,Yes,Yes,110,Very frequently,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,4,6,0,0
+17,2,Folk,Yes,Yes,116,Very frequently,Sometimes,Never,Very frequently,Sometimes,Rarely,Very frequently,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Rarely,9,4,0,1
+21,3,Rap,Yes,Yes,145,Sometimes,Never,Never,Rarely,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,9,7,7,5
+17,2,Rock,Yes,No,,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,5,10,2,7
+36,3,Country,No,Yes,105,Very frequently,Very frequently,Sometimes,Never,Never,Rarely,Never,Very frequently,Sometimes,Never,Never,Rarely,Sometimes,Never,Never,Never,1,0,1,0
+18,4,R&B,Yes,Yes,80,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Never,8,7,2,6
+18,1,K pop,No,Yes,100,Never,Never,Rarely,Never,Never,Very frequently,Never,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Never,5,1,4,0
+18,5,Latin,Yes,Yes,73,Very frequently,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Never,Very frequently,Sometimes,Rarely,Sometimes,Never,10,6,0,0
+18,2,R&B,Yes,No,80,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Very frequently,Very frequently,Very frequently,Never,Never,7,5,5,5
+18,7,Hip hop,Yes,Yes,,Very frequently,Rarely,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Rarely,3,1,0,3
+18,2,Rap,Yes,Yes,,Rarely,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Never,Rarely,5,8,7,4
+18,1,Classical,No,No,120,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Rarely,Rarely,Rarely,Rarely,2,0,0,5
+18,1,Classical,No,No,117,Very frequently,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,7,0,0,0
+18,4,R&B,No,No,,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Never,8,0,0,2
+20,6,R&B,Yes,Yes,89,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Rarely,4,1,1,0
+19,3,Hip hop,Yes,No,115,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Rarely,3,8,0,2
+17,4,Hip hop,Yes,No,144,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Never,Very frequently,Never,Never,7,0,2,2
+23,4,Video game music,Yes,Yes,105,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,10,8,10,0
+18,1,Pop,Yes,No,114,Never,Rarely,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,7,1,1,1
+19,2,Pop,Yes,Yes,145,Rarely,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,5,9,1,7
+89,24,Rap,No,No,143,Never,Never,Rarely,Rarely,Never,Very frequently,Sometimes,Never,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,0,0,0,0
+20,5,R&B,Yes,Yes,128,Very frequently,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,10,6,3,8
+16,3,Rock,Yes,Yes,90,Rarely,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Never,7,3.5,3.5,5.5
+17,4,Country,Yes,Yes,110,Sometimes,Very frequently,Never,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Never,2,0,0,2
+16,9,Metal,No,Yes,130,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,10,10,10,8
+20,1,Pop,No,Yes,,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,8,9,6,5
+30,1,Rock,Yes,Yes,115,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,9,7,8,4
+37,2,Folk,Yes,No,186,Sometimes,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes,6,4,5,0
+44,1.5,Folk,No,No,99,Rarely,Very frequently,Never,Very frequently,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,8,5,9,4
+21,2,Metal,Yes,Yes,150,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Rarely,3,7,0,0
+19,4,Pop,Yes,No,149,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,9,1,0,9
+23,1,Rock,Yes,Yes,,Rarely,Rarely,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,8,6,1,4
+26,1,Country,Yes,No,120,Sometimes,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,4,1,1,6
+18,3,Video game music,Yes,Yes,140,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Very frequently,6,5,3,1
+35,4,Hip hop,Yes,No,90,Sometimes,Rarely,Rarely,Sometimes,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,7,8,6,5
+16,8,Rock,Yes,No,120,Very frequently,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,8,9,5,10
+19,5,Metal,Yes,Yes,210,Never,Never,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8,6,7,0
+23,3,Rock,No,No,,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Never,10,5,2,0
+17,8,Pop,Yes,Yes,95,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Never,Very frequently,Never,Rarely,Rarely,Very frequently,5,2,4,7
+29,1,Country,Yes,No,163,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9,3,2,0
+21,4,Pop,No,No,97,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,4,6,3,4
+17,1,Metal,Yes,Yes,137,Sometimes,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,9,8,4,0
+23,2,Rock,Yes,Yes,,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Never,5,7,10,2
+17,1,Metal,Yes,Yes,70,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Never,Never,Very frequently,Very frequently,8,3,9,2
+22,3,Video game music,Yes,Yes,150,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Very frequently,10,10,6,8
+17,5,Hip hop,Yes,No,168,Rarely,Sometimes,Very frequently,Never,Sometimes,Very frequently,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Rarely,7,7,5,5
+19,5,Pop,Yes,Yes,163,Very frequently,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Very frequently,Rarely,Rarely,Sometimes,Rarely,10,8,1,0
+19,4,Pop,Yes,Yes,140,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,8,6,2,0
+16,6,Pop,Yes,Yes,105,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Never,10,7,6,10
+19,6,Pop,Yes,Yes,78,Rarely,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Sometimes,6,6,8,0
+13,1,Video game music,Yes,No,128,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Never,Sometimes,Sometimes,Very frequently,10,10,8,4
+18,18,EDM,Yes,No,90,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,9,8,5,10
+26,1,Metal,Yes,Yes,136,Sometimes,Rarely,Sometimes,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Rarely,Never,Never,Never,Rarely,0,0,0,0
+14,7,Country,Yes,No,108,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,7,3,1,2
+21,0.5,Pop,Yes,No,95,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,Very frequently,Sometimes,Sometimes,Very frequently,Never,6,2,2,0
+21,2,R&B,Yes,Yes,147,Sometimes,Never,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,7,6,4,6
+17,2,Rock,Yes,Yes,120,Very frequently,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Very frequently,Never,7,6,0,9
+18,1,Pop,Yes,Yes,160,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Very frequently,Never,Never,Sometimes,Sometimes,3,2,2,5
+19,6,Rap,Yes,No,120,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,2,2,2,2
+19,5,Classical,No,No,170,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,2,3,2,1
+29,2,Hip hop,Yes,Yes,98,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,2,2,2,5

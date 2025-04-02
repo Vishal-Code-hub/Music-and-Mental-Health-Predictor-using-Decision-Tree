@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mental Health</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                         'custom': '#CAF4FF',
+                        'primary': '#3AA6B9',
+                        'secondary': '#F0C1E1',
+                    },
+                    container: {
+                        center: true,
+                        padding: {
+                            DEFAULT: '1rem',
+                            sm: '2rem',
+                            lg: '7rem',
+                            xl: '8rem',
+                            '2xl': '6rem',
+                        },
+                    },
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-r from-primary via-custom to-secondary">
+    <header-component></header-component>
+</body>
+</html>
+
+    <main>
+        <hero-section></hero-section>
+        <about-section></about-section>
+        <diagnosis-section></diagnosis-section>
+        <chatbot-support-section></chatbot-support-section>
+        <musictherapy-section></musictherapy-section>
+        <resources-section></resources-section>
+        <contact-section></contact-section>
+    </main>
+
+    <footer-component></footer-component>
+
+    <script>
+        class Header extends HTMLElement {
+            connectedCallback() {
+                this.innerHTML = `
+                    <header class="bg-[#FFD0D0]">
+                        <nav class="container mx-auto px-6 py-3">
+                            <body style="background-color:#FFB6C1;">
+                            <div class="flex justify-between items-center">
+                                <div class="flex items-center">
+                                    <img src="https://cdn4.vectorstock.com/i/1000x1000/83/13/ai-digital-brain-concept-blue-icon-or-logo-element-vector-22508313.jpg" alt="Mental Health AI Logo" class="h-10 w-10 mr-3">
+                                    <span class="text-xl font-semibold text-gray-800">Moodify</span>
+                                </div>
+                                <div class="hidden md:flex items-center space-x-4">
+                                    <a href="#home" class="text-gray-800 hover:text-primary">Home</a>
+                                    <a href="#about" class="text-gray-800 hover:text-primary">About</a>
+                                    <a href="#diagnosis" class="text-gray-800 hover:text-primary">Diagnosis</a>
+                                    <a href="#chat-support" class="text-gray-800 hover:text-primary">Chat Support</a>
+                                     <a href="#musictherapy" class="text-gray-800 hover:text-primary">Music Therapy</a>
+                                    <a href="#resources" class="text-gray-800 hover:text-primary">Resources</a>
+                                    <a href="#contact" class="text-gray-800 hover:text-primary">Contact</a>
+                                </div>
+                                <div class="md:hidden">
+                                    <button id="mobile-menu-button" class="text-gray-800 hover:text-primary">
+                                        <i class="fas fa-bars"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </nav>
+                        <div id="mobile-menu" class="hidden md:hidden">
+                            <a href="#home" class="block py-2 px-4 text-sm hover:bg-gray-200">Home</a>
+                            <a href="#about" class="block py-2 px-4 text-sm hover:bg-gray-200">About</a>
+                            <a href="#diagnosis" class="block py-2 px-4 text-sm hover:bg-gray-200">Diagnosis</a>
+                            <a href="#chat-support" class="block py-2 px-4 text-sm hover:bg-gray-200">Chat Support</a>
+                            <a href="#musictherapy" class="block py-2 px-4 text-sm hover:bg-gray-200">Music Therapy</a>
+                            <a href="#resources" class="block py-2 px-4 text-sm hover:bg-gray-200">Resources</a>
+                            <a href="#contact" class="block py-2 px-4 text-sm hover:bg-gray-200">Contact</a>
+                        </div>
+                    </header>
+                `;
+                this.initializeMenu();
+            }
+
+            initializeMenu() {
+                const mobileMenuButton = this.querySelector('#mobile-menu-button');
+                const mobileMenu = this.querySelector('#mobile-menu');
+                if (mobileMenuButton && mobileMenu) {
+                    mobileMenuButton.addEventListener('click', () => {
+                        mobileMenu.classList.toggle('hidden');
+                    });
+                }
+            }
+        }
+
+        class HeroSection extends HTMLElement {
+            connectedCallback() {
+                this.innerHTML = `
+                    <section id="home" class="relative h-screen flex items-center justify-center text-center text-white">
+                        <div class="absolute inset-0 z-0">
+                            <img src="../static/Moodify.jpeg" alt="Serene landscape" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-black opacity-50"></div>
+                        </div>
+                        <div class="relative z-10 max-w-3xl mx-auto px-6">
+                            <h1 class="text-4xl md:text-5xl font-bold mb-4">Welcome to Moodify</h1>
+                            <p class="text-xl mb-8">Empowering your mental well-being through innovative solutions</p>
+                            <a href="#about" class="bg-primary hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-full transition duration-300">Learn More</a>
+                        </div>
+                    </section>
+                `;
+            }
+        }
+
+        class AboutSection extends HTMLElement {
+            connectedCallback() {
+                this.innerHTML = `
+                    <section id="about" class="py-16 bg-gradient-to-r from-[#BCF2F6] to-[#FFB6C1]">
+                        <div class="container mx-auto px-6">
+                            <h2 class="text-3xl font-semibold text-center mb-8">About Moodify</h2>
+                            <div class="flex flex-col md:flex-row items-center justify-between">
+                                <div class="md:w-1/2 mb-8 md:mb-0">
+                                    <img src="https://www.techslang.com/wp-content/uploads/2020/08/image-from-rawpixel-id-593117-jpeg.jpg" alt="About Moodify" class="rounded-lg shadow-lg">
+                                </div>
+                                <div class="md:w-1/2 md:pl-8">
+                                    <p class="text-gray-700 mb-4">Moodify is at the forefront of revolutionizing mental health care through cutting-edge artificial intelligence along with recommendations such as personalized music choices. Our mission is to make mental health support accessible, personalized, and effective for everyone.</p>
+                                    <p class="text-gray-700 mb-4">We combine the expertise of mental health professionals with advanced AI algorithms to provide accurate diagnoses, personalized treatment plans, and ongoing support.</p>
+                                    <p class="text-gray-700">Our team of dedicated professionals and AI specialists work tirelessly to ensure that you receive the best possible care and support on your mental health journey.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                `;
+            }
+        }
+
+        class DiagnosisSection extends HTMLElement {
+            connectedCallback() {
+                this.innerHTML = `
+                    <section id="diagnosis" class="py-16 bg-gradient-to-r from-[#BCF2F6] to-[#FFB6C1]">
+                        <div class="container mx-auto px-6">
+                            <h2 class="text-3xl font-semibold text-center mb-8">Diagnosis</h2>
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                                <div class="bg-white rounded-lg shadow-md p-6">
+                                    <i class="fas fa-brain text-4xl text-primary mb-4"></i>
+                                    <h3 class="text-xl font-semibold mb-2">Survey-Based Analysis</h3>
+                                    <p class="text-gray-700">Our system analyzes various factors to provide accurate and timely mental health assessments.</p>
+                                </div>
+                                <div class="bg-white rounded-lg shadow-md p-6">
+                                    <i class="fas fa-chart-line text-4xl text-primary mb-4"></i>
+                                    <h3 class="text-xl font-semibold mb-2">Personalized Insights</h3>
+                                    <p class="text-gray-700">Receive tailored insights and recommendations based on your unique mental health profile.</p>
+                                </div>
+                                <div class="bg-white rounded-lg shadow-md p-6">
+                                    <i class="fas fa-user-md text-4xl text-primary mb-4"></i>
+                                    <h3 class="text-xl font-semibold mb-2">Music Therapy</h3>
+                                    <p class="text-gray-700">Our diagnoses are reviewed and validated by experienced mental health professionals.</p>
+                                </div>
+                                <div class="bg-white rounded-lg shadow-md p-6">
+                                    <i class="fas fa-lock text-4xl text-primary mb-4"></i>
+                                    <h3 class="text-xl font-semibold mb-2">Privacy Focused</h3>
+                                    <p class="text-gray-700">Your data is protected with state-of-the-art security measures, ensuring complete confidentiality.</p>
+                                </div>
+                            </div>
+                            <div class="text-center mt-8">
+                                <a href="http://127.0.0.1:5000/" class="bg-primary hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-full transition duration-300">Start Your Assessment</a>
+                            </div>
+                        </div>
+                    </section>
+                `;
+            }
+        }
+
+        class ChatbotSupportSection extends HTMLElement {
+            connectedCallback() {
+                this.innerHTML = `
+                    <section id="chatbot" class="py-16 bg-gradient-to-r from-[#BCF2F6] to-[#FFB6C1]">
+            <div class="container mx-auto px-4">
+                <h2 class="text-3xl font-semibold text-center mb-8">24/7 Chat Support</h2>
+                <div class="max-w-2xl mx-auto bg-gray-100 p-8 rounded-lg shadow-md">
+                    <div class="bg-white rounded-lg p-4 h-64 overflow-y-auto mb-4" id="chat-messages">
+                        <div class="mb-2">
+                            <span class="font-semibold">AI:</span> Hello! How can I assist you today?
+                        </div>
+                    </div>
+                    <div class="flex">
+                        <input type="text" id="user-input" class="flex-grow p-2 border rounded-l" placeholder="Type your message...">
+                        <button id="send-message" class="bg-primary text-white px-4 py-2 rounded-r hover:bg-blue-600 transition duration-300">Send</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+                `;
+            }
+        }
+        class MusicTherapySection extends HTMLElement {
+            connectedCallback() {
+                this.innerHTML = `
+        <section id="music" class="py-16 bg-gradient-to-r from-[#BCF2F6] to-[#FFB6C1]">
+            <div class="container mx-auto px-4">
+                <h2 class="text-3xl font-semibold text-center mb-8">Music Therapy</h2>
+                <div class="max-w-4xl mx-auto bg-white p-8 rounded-lg shadow-md">
+                    <p class="mb-6 text-center">Experience the healing power of music with our personalized songs designed to improve your mood and mental well-being.</p>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                        <div class="bg-blue-100 p-4 rounded-lg text-center">
+                            <i class="fas fa-smile text-4xl text-blue-500 mb-2"></i>
+                            <h3 class="font-semibold mb-2">Mood Booster</h3>
+                            <audio controls class="w-full">
+                                <source src="#" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                            </audio>
+                        </div>
+                        <div class="bg-green-100 p-4 rounded-lg text-center">
+                            <i class="fas fa-leaf text-4xl text-green-500 mb-2"></i>
+                            <h3 class="font-semibold mb-2">Relaxation</h3>
+                            <audio controls class="w-full">
+                                <source src="#" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                            </audio>
+                        </div>
+                        <div class="bg-purple-100 p-4 rounded-lg text-center">
+                            <i class="fas fa-moon text-4xl text-purple-500 mb-2"></i>
+                            <h3 class="font-semibold mb-2">Sleep Aid</h3>
+                            <audio controls class="w-full">
+                                <source src="#" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        `;
+    }
+    }
+    class ResourcesSection extends HTMLElement {
+        connectedCallback() {
+            this.innerHTML = `
+                <section id="resources" class="min-h-screen py-16 bg-gradient-to-r from-[#BCF2F6] to-[#FFB6C1]"">
+                    <div class="container mx-auto px-6">
+                        <h2 class="text-3xl font-semibold text-center mb-8">Mental Health Resources</h2>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                            <div class="bg-gray-100 rounded-lg p-6">
+                                <h3 class="text-xl font-semibold mb-4">Articles</h3>
+                                <ul class="space-y-2">
+                                    <li><a href="https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders" class="text-primary hover:underline">Understanding Anxiety Disorders</a></li>
+                                    <li><a href="#" class="text-primary hover:underline">Coping Strategies for Depression</a></li>
+                                    <li><a href="#" class="text-primary hover:underline">The Importance of Self-Care</a></li>
+                                    <li><a href="#" class="text-primary hover:underline">Building Resilience in Difficult Times</a></li>
+                                </ul>
+                            </div>
+                            <div class="bg-gray-100 rounded-lg p-6">
+                                <h3 class="text-xl font-semibold mb-4">Videos</h3>
+                                <ul class="space-y-2">
+                                    <li><a href="<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tuPW7oOudVc?si=G7ylOUbNYKw4pJli" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" class="text-primary hover:underline">Guided Meditation for Stress Relief</a></li>
+                                    <li><a href="#" class="text-primary hover:underline">Understanding Cognitive Behavioral Therapy</a></li>
+                                    <li><a href="#" class="text-primary hover:underline">Mindfulness Techniques for Daily Life</a></li>
+                                    <li><a href="#" class="text-primary hover:underline">Overcoming Social Anxiety</a></li>
+                                </ul>
+                            </div>
+                            <div class="bg-gray-100 rounded-lg p-6">
+                                <h3 class="text-xl font-semibold mb-4">Support Groups</h3>
+                                <ul class="space-y-2">
+                                    <li><a href="https://www.dbsalliance.org/support/chapters-and-support-groups/online-support-groups/" class="text-primary hover:underline">Depression Support Group</a></li>
+                                    <li><a href="https://www.mentalhealthforum.net/forum/forums/panic-disorder-and-agoraphobia-forum.43/" class="text-primary hover:underline">Anxiety and Panic Disorder Forum</a></li>
+                                    <li><a href="https://www.myptsd.com/" class="text-primary hover:underline">PTSD Recovery Network</a></li>
+                                    <li><a href="https://indianhelpline.com/de-addiction-helpline" class="text-primary hover:underline">Addiction Recovery Community</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="text-center mt-8">
+                            <a href="#" class="bg-secondary hover:bg-green-600 text-white font-bold py-3 px-6 rounded-full transition duration-300">Explore All Resources</a>
+                        </div>
+                    </div>
+                </section>
+            `;
+        }
+    }
+    
+    class ContactSection extends HTMLElement {
+        connectedCallback() {
+            this.innerHTML = `
+                <section id="contact" class="min-h-screen py-16 bg-gradient-to-r from-[#BCF2F6] to-[#FFB6C1]"">
+                    <div class="container mx-auto px-6">
+                        <h2 class="text-3xl font-semibold text-center mb-8">Contact Us</h2>
+                        <div class="max-w-2xl mx-auto">
+                            <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+                                <div class="mb-4">
+                                    <label class="block text-gray-700 text-sm font-bold mb-2" for="name">
+                                        Name
+                                    </label>
+                                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="name" type="text" placeholder="Your Name">
+                                </div>
+                                <div class="mb-4">
+                                    <label class="block text-gray-700 text-sm font-bold mb-2" for="email">
+                                        Email
+                                    </label>
+                                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="email" type="email" placeholder="Your Email">
+                                </div>
+                                <div class="mb-6">
+                                    <label class="block text-gray-700 text-sm font-bold mb-2" for="message">
+                                        Message
+                                    </label>
+                                    <textarea class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="message" rows="4" placeholder="Your Message"></textarea>
+                                </div>
+                                <div class="flex items-center justify-between">
+                                    <button class="bg-primary hover:bg-blue-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline transition duration-300" type="button">
+                                        Send Message
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </section>
+            `;
+        }
+    }
+
+
+        class Footer extends HTMLElement {
+            connectedCallback() {
+                this.innerHTML = `
+                    <footer class="bg-gray-800 text-white py-8">
+                        <div class="container mx-auto px-6">
+                            <div class="flex flex-wrap justify-between">
+                                <div class="w-full md:w-1/4 mb-6 md:mb-0">
+                                    <h3 class="text-lg font-semibold mb-2">Moodify</h3>
+                                    <p class="text-sm">Empowering your mental well-being through innovative solutions.</p>
+                                </div>
+                                <div class="w-full md:w-1/4 mb-6 md:mb-0">
+                                    <h3 class="text-lg font-semibold mb-2">Quick Links</h3>
+                                    <ul class="text-sm">
+                                        <li><a href="#home" class="hover:text-primary">Home</a></li>
+                                        <li><a href="#about" class="hover:text-primary">About</a></li>
+                                        <li><a href="#diagnosis" class="hover:text-primary">Diagnosis</a></li>
+                                        <li><a href="#chat-support" class="hover:text-primary">Chat Support</a></li>
+                                    </ul>
+                                </div>
+                                <div class="w-full md:w-1/4 mb-6 md:mb-0">
+                                    <h3 class="text-lg font-semibold mb-2">Resources</h3>
+                                    <ul class="text-sm">
+                                        <li><a href="#" class="hover:text-primary">Blog</a></li>
+                                        <li><a href="#" class="hover:text-primary">FAQs</a></li>
+                                    </ul>
+                                </div>
+                                <div class="w-full md:w-1/4">
+                                    <h3 class="text-lg font-semibold mb-2">Connect With Us</h3>
+                                    <div class="flex space-x-4">
+                                        <a href="#" class="text-white hover:text-primary"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="#" class="text-white hover:text-primary"><i class="fab fa-twitter"></i></a>
+                                        <a href="#" class="text-white hover:text-primary"><i class="fab fa-instagram"></i></a>
+                                        <a href="#" class="text-white hover:text-primary"><i class="fab fa-linkedin-in"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="border-t border-gray-700 mt-8 pt-8 text-sm text-center">
+                                <p>&copy; 2024 Moodify. All rights reserved.</p>
+                            </div>
+                        </div>
+                    </footer>
+                `;
+            }
+        }
+        customElements.define('header-component', Header);
+        customElements.define('hero-section', HeroSection);
+        customElements.define('about-section', AboutSection);
+        customElements.define('diagnosis-section', DiagnosisSection);
+        customElements.define('chatbot-support-section', ChatbotSupportSection);
+        customElements.define('musictherapy-section', MusicTherapySection);
+        customElements.define('resources-section', ResourcesSection);
+        customElements.define('contact-section', ContactSection);
+        customElements.define('footer-component', Footer);
+         // Mobile menu toggle
+         const mobileMenuButton = document.getElementById('mobile-menu-button');
+         const mobileMenu = document.getElementById('mobile-menu');
+ 
+         mobileMenuButton.addEventListener('click', () => {
+             mobileMenu.classList.toggle('hidden');
+         });
+ 
+         // Smooth scrolling for navigation links
+         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+             anchor.addEventListener('click', function (e) {
+                 e.preventDefault();
+                 document.querySelector(this.getAttribute('href')).scrollIntoView({
+                     behavior: 'smooth'
+                 });
+             });
+         });
+ 
+         // Chatbot functionality
+         // Chatbot functionality for mental health support
+const chatMessages = document.getElementById('chat-messages');
+const userInput = document.getElementById('user-input');
+const sendButton = document.getElementById('send-message');
+
+// Sample responses for a mental health chat support
+const responses = [
+    "It's great that you're reaching out. How are you feeling today?",
+    "I'm here to listen. What’s on your mind?",
+    "It’s okay to talk about what you’re going through. Please share.",
+    "Remember, you're not alone. I'm here to support you.",
+    "Taking the first step is important. What would you like to discuss?",
+    "Maybe if you started to address questions of an inner nature of what changed in your life as a result of the back problem.To know your limitations and the areas of your life which they affect, will greatly contribute to stronger self-knowledge within you.Greater awareness and sense of direction very often decreases depression",
+    "Your feelings are valid. Let's talk about what you're experiencing.",
+    "Have you used meditation or hypnosis? Relaxing the mind and connecting with your true self is a great way to calm your thoughts and get to peace and calm. Hypnosis and meditation have helped a lot of people with anxiety and depression. Google hypnotherapists near me or write for a while about what is going on",
+    "It's perfectly okay to feel the way you do. I'm here for you.",
+    "Check this blog out: 'How to Develop Self-Esteem by wikiHow' .Hope you find a few nuggets of helpfulness in this",
+    "I would suggest some holistic approaches, such as getting your Vitamin D and iron levels checked. Make sure you are eating well, exercising, and getting outside when you can. Take a trip to someplace warm if possible. Use a sun lamp in the morning for 30 minutes to simulate sunlight. Seek professional health to gain coping skills and other ways to manage symptoms",
+    "Talking can be a helpful way to process your thoughts. What would you like to say?",
+    "It's important to express your feelings. What’s been bothering you?",
+    "I'm glad you decided to chat. What’s been on your mind lately?",
+    "Maybe right now it is time for you to rest before the next wave of new activity comes along.To have no interest may mean you are already so saturated with recent situations and their meaning that you are naturally withdrawing in order to regain your energy",
+    "Sometimes sharing can lighten the load. How can I help you today?",
+    "You deserve to feel heard. What would you like to talk about?",
+    "One way to know yourself a little better and why the dynamics you describe take place, is to understand the particular dynamics of your life context.Look at your major areas of where you spend your time, whether you are happy with the people with whom you socialize, how you feel toward family members and how they seem to feel toward you",
+    "I’m here to support you. Let’s take it one step at a time."
+];
+sendButton.addEventListener('click', () => {
+    const message = userInput.value.trim();
+    if (message) {
+        addMessage('You', message);
+        
+        // Simulate AI response
+        setTimeout(() => {
+            const randomResponse = responses[Math.floor(Math.random() * responses.length)];
+            addMessage('AI', randomResponse);
+        }, 1000);
+        
+        userInput.value = '';
+    }
+});
+
+// Function to add messages to the chat
+function addMessage(sender, message) {
+    const messageElement = document.createElement('div');
+    messageElement.classList.add('message');
+    messageElement.innerHTML = `<strong>${sender}:</strong> ${message}`;
+    chatMessages.appendChild(messageElement);
+    chatMessages.scrollTop = chatMessages.scrollHeight; // Scroll to the bottom
+}
+
+         
+         function addMessage(sender, message) {
+             const messageElement = document.createElement('div');
+             messageElement.classList.add('mb-2');
+             messageElement.innerHTML = `<span class="font-semibold">${sender}:</span> ${message}`;
+             chatMessages.appendChild(messageElement);
+             chatMessages.scrollTop = chatMessages.scrollHeight;
+         }
+    </script>
+</body>
+</html>
